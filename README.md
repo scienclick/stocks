@@ -4,7 +4,7 @@
 This notebook shows some steps in analysing huge stocks data obtain from Kaggle. It is always challanging to extract  information from many available datapoins, so I tried to adress some major questions in this regards.
 
 
-##Disclaimer:
+## Disclaimer:
 This analysis should NOT be taken as financial advice . I have no knowledge of stock trading and good/poor/best terms used to classify companies are based on intuition, which probably is not standard. Needles to say that market complexities cannot be captured by one dimensional price analysis.
 
 ## References
