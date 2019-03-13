@@ -1,7 +1,7 @@
 
 ## Motivation
 
-This notebook is part of the requierment for my **data science** Udacity degree. In this project I tried to select a data-set that I had no prior knowledge about to be unbiased and challenging. 
+This notebook is part of the requierments for my **data scientist** *Udacity degree*. In this project I tried to select a data-set that I had no prior knowledge about to be unbiased and challenging. 
 
 ## Usage example
 
