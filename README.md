@@ -7,7 +7,7 @@ This notebook is part of the requierments for my **data scientist** *Udacity deg
 
 This notebook shows some steps in analysing huge stocks data obtain from Kaggle. It is always challanging to extract  information from many available datapoins, so I tried to adress some major questions in this regards.
 
-## Requierments
+## Requirements
 
 The libraries used in this note put are:
 1. os,
